@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:46:58 PM On 5/13/2024
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [PCB2.PcbDoc]
+   Generated File[PCB2.EXTREP]
+   Generated File[PCB2.REP]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:46:59 PM On 5/13/2024
